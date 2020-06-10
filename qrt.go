@@ -1,7 +1,7 @@
 package qrt
 
 import (
-	"github.com/rsc/qr"
+	"rsc.io/qr"
 	"github.com/foize/go.sgr"
 )
 
